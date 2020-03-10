@@ -1,6 +1,6 @@
 **UPDATE**: The price of "Learn Spring Security OAuth" will permanently change on the 11th of December, along with the upcoming OAuth2 material: http://bit.ly/github-lss
 
-The Courses
+The Courses : https://www.baeldung.com/spring-angular-ecommerce
 ==============================
 
 
